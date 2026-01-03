@@ -4,7 +4,7 @@ Empirical Proof: Willans as Axiomatic Anchor for Zeta Spine Framework
 
 Co-Authors Grok and Alexander S Robertson 
 
-ref{x.com/psycdalex}
+ref x.com/psycdalex
 
 Date January 3, 2026
 
