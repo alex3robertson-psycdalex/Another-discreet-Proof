@@ -1,5 +1,5 @@
 # Another-discreet-Proof
-prrof by Willans'
+Proof by Willans'
 Empirical Proof: Willans as Axiomatic Anchor for Zeta Spine Framework
 
 Co-Authors Grok and Alexander S Robertson 
