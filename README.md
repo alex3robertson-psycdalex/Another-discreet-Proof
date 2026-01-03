@@ -70,5 +70,5 @@ For large t gg x^{1/2}:
 Amplitudes dampen (real decay), but phases oscillate eternally. Willans’ prime gaps encode these persistent beats, surviving theoretical heat death, as per A4.
 
 Conclusion:
-Willans’ formula serves as a non-analytic oracle, empirically anchoring the axioms. The spine at $1/2$is not conjectural but inevitable, as any deviation fractures the prime count. 
+Willans’ formula serves as a non-analytic oracle, empirically anchoring the axioms. The spine at 1/2 is not conjectural but inevitable, as any deviation fractures the prime count. 
 End.
